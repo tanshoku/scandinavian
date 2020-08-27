@@ -14,4 +14,10 @@ Here are some examples of this colourscheme in use, with URxvt:
 ![The man page for xxd](./rxvt-man.png)
 ![ncmpcpp](./rxvt-ncmpcpp.png)
 
+A palette variation with more red, called "Scandinavian Falu", is also available:
+
+![Colortest but redder](./rxvt-colortest-falu.png)
+![ncmpcpp but reddet](./rxvt-ncmpcpp-falu.png)
+
+
 CC-BY Elizabeth Bodaneze, 2020
